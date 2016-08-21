@@ -1,0 +1,18 @@
+<package>
+	<name>ardrone_slam</name>
+	<version>1.0.0</version>
+	<description>
+		Controllers developed for the "Up and flying with the AR.Drone and ROS" tutorial series
+	</description>
+	<maintainer email="mail@mail.com">Rodrigo e De Hong</maintainer>
+	
+	<buildtool_depend>catkin</buildtool_depend>
+	
+	<run_depend>ardrone_autonomy</run_depend>
+	<run_depend>joy</run_depend>
+
+	<license>BSD</license>
+	<url>https://gitlab.com/tg_slam_ardrone/ardrone_slam</url>
+</package>
+
+

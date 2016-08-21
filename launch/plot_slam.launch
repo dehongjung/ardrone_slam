@@ -1,0 +1,7 @@
+<launch>
+
+	<node pkg="ardrone_slam" name="SLAM" type="main.py" output="screen" respawn="true" />
+
+	<node pkg="ardrone_slam" name="PLOT_2D" type="plot.py" output="screen" respawn="true" />
+
+</launch>

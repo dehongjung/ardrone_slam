@@ -1,0 +1,5 @@
+$ source /opt/ros/hydro/setup.bash
+$ export ROS_WORKSPACE="/home/rodrigo/catkin_ws/src/"
+$ export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:/home/rodrigo/catkin_ws/src/
+
+rosbag play ARDroneFlight_IMU.bag
