@@ -7,3 +7,6 @@ The main goal of this project is developing a simultaneous localization and mapp
 For this work, the flying robot used was the AR.Drone Parrot 2.0. It contains a frontal monocular camera and a embedded IMU. Also, the Parrot can transmit its camera and IMU data via Wi-Fi.
 
 The code was written in Python using the ROS enviroment to manage the nodes and the quadrotor drivers.
+
+Paper: https://drive.google.com/open?id=0B5QFVyyQ_lQ5Tk93UGZrR0lzUW8
+Full Dissertation: https://drive.google.com/open?id=0B5QFVyyQ_lQ5bTR1Qmc4ZEtVeWM
